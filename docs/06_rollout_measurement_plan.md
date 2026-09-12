@@ -1,4 +1,4 @@
-# 06. Rollout & Measurement Plan
+# 05. Rollout & Measurement Plan
 
 ## Validation approach: A/B Test
 
