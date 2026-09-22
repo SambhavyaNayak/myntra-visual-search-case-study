@@ -1,7 +1,7 @@
 # Myntra Visual Search: Tap-to-Select for Multi-Item Photos
 
 **A Product Management Case Study**
-Sambhavya Nayak | [LinkedIn](#) | [Portfolio PDF](./Myntra_Visual_Search_Case_Study.pdf)
+Sambhavya Nayak | Sumiran Kumar
 
 ## TL;DR
 
